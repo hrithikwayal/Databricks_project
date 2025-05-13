@@ -30,7 +30,7 @@ This project processes customer and order data using PySpark on Databricks. It i
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hrithikwayal14/Databricks_project.git 
+   git clone https://github.com/hrithikwayal14/databricks-pyspark-project.git 
    cd MyProject
     ```
 2. Install dependencies:
